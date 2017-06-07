@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDataSource": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "People",
+    "password": "",
+    "name": "mongoDataSource",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
