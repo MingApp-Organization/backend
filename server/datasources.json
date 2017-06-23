@@ -4,13 +4,14 @@
     "connector": "memory"
   },
   "mongoDataSource": {
-    "host": "",
-    "port": 0,
+    "host": "ds135382.mlab.com",
+    "port": 35382,
     "url": "",
-    "database": "People",
-    "password": "",
+    "database": "heroku_qz9f8tgb",
+    "password": "mingapp2017",
     "name": "mongoDataSource",
-    "user": "",
+    "user": "admin",
     "connector": "mongodb"
   }
 }
+//ds135382.mlab.com:35382/heroku_qz9f8tgb -u <dbuser> -p <dbpassword>
