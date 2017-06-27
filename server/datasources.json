@@ -14,4 +14,3 @@
     "connector": "mongodb"
   }
 }
-//ds135382.mlab.com:35382/heroku_qz9f8tgb -u <dbuser> -p <dbpassword>
